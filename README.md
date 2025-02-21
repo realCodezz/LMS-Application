@@ -1,4 +1,4 @@
-# Group 16 PSD LMS Application for preschool 👋
+# LMS Application for preschool 👨‍👩‍👦‍👦
 
 ## To get started:
 
